@@ -1,0 +1,51 @@
+Product 1: Apple iPhone 14 - $799  
+Latest model with powerful A15 Bionic chip, 6.1" Super Retina XDR OLED display, 5G support, and improved camera system.  
+Key Features:  
+- Dual 12MP cameras with Photonic Engine  
+- iOS 16  
+- Available in multiple colors (Midnight, Blue, Starlight, Purple, Product Red)  
+- Battery life: Up to 20 hours  
+Warranty: 1 Year  
+Availability: In stock  
+
+Product 2: Samsung Galaxy S22 - $749  
+Premium Android phone with Dynamic AMOLED display and high-end camera system.  
+Key Features:  
+- 6.1" AMOLED Display  
+- Snapdragon 8 Gen 1  
+- Triple Camera Setup: 50MP + 12MP + 10MP  
+- IP68 water resistance  
+- 25W fast charging  
+Warranty: 1 Year  
+Availability: Limited stock  
+
+Product 3: Google Pixel 7 - $699  
+Pure Android experience with outstanding camera and Google Tensor G2 chip.  
+Key Features:  
+- 6.3" OLED Display (90Hz refresh)  
+- Dual Cameras: 50MP wide + 12MP ultra-wide  
+- Titan M2 security chip  
+- Android 13  
+Warranty: 2 Years  
+Availability: In stock  
+
+Product 4: OnePlus 11 - $699  
+Flagship killer with super-fast charging and powerful performance.  
+Key Features:  
+- 6.7" AMOLED Display, 120Hz  
+- Snapdragon 8 Gen 2  
+- Triple Camera (Hasselblad collaboration)  
+- 100W Fast Charging  
+Warranty: 1 Year  
+Availability: Pre-order  
+
+Product 5: Sony WH-1000XM5 - $399  
+Industry-leading noise-cancelling headphones with long battery life.  
+Key Features:  
+- Dual Noise Sensor Tech  
+- Up to 30 hours of playback  
+- Touch controls  
+- Quick charge (3 min = 3 hrs)  
+- Voice Assistant support (Alexa/Google)  
+Warranty: 1 Year  
+Availability: In stock  
